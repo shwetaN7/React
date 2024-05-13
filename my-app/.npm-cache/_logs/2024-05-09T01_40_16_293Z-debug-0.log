@@ -1,0 +1,19 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Users\hp\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.6.0
+2 info using node@v20.12.2
+3 silly config:load:file:C:\Users\hp\AppData\Roaming\npm\node_modules\npm\npmrc
+4 silly config:load:file:C:\React\my-app\my-app\.npmrc
+5 silly config:load:file:C:\Users\hp\.npmrc
+6 silly config:load:file:C:\Users\hp\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm start
+8 verbose argv "start"
+9 verbose logfile logs-max:10 dir:C:\React\my-app\my-app\.npm-cache\_logs\2024-05-09T01_40_16_293Z-
+10 verbose logfile C:\React\my-app\my-app\.npm-cache\_logs\2024-05-09T01_40_16_293Z-debug-0.log
+11 silly logfile start cleaning logs, removing 3 files
+12 silly logfile error removing log file C:\React\my-app\my-app\.npm-cache\_logs\2024-05-03T02_48_17_159Z-debug-0.log [Error: EPERM: operation not permitted, lstat 'C:\React\my-app\my-app\.npm-cache\_logs\2024-05-03T02_48_17_159Z-debug-0.log'] {
+12 silly logfile   errno: -4048,
+12 silly logfile   code: 'EPERM',
+12 silly logfile   syscall: 'lstat',
+12 silly logfile   path: 'C:\\React\\my-app\\my-app\\.npm-cache\\_logs\\2024-05-03T02_48_17_159Z-debug-0.log'
+12 silly logfile }
+13 silly logfile done cleaning log files

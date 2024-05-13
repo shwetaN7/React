@@ -1,0 +1,14 @@
+/* Header.css */
+ 
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #7e7b7d; /* Background color for the header container */
+    padding: 20px; /* Add padding for spacing */
+  }
+ 
+  .header-title {
+    margin: 0; /* Remove default margin */
+    color: #fff; /* Example color for text */
+  }

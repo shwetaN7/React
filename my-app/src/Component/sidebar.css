@@ -1,0 +1,31 @@
+/* Sidebar.css */
+.sidebar {
+    width: 250px;
+    height: 100%;
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+   
+  .sidebar-header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+   
+  .sidebar-nav ul {
+    list-style: none;
+    padding: 0;
+  }
+   
+  .sidebar-nav ul li {
+    margin-bottom: 10px;
+  }
+   
+  .sidebar-link {
+    color: #fff;
+    text-decoration: none;
+  }
+   
+  .sidebar-link:hover {
+    color: #ccc;
+  }
